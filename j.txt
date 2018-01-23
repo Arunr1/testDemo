@@ -44,8 +44,11 @@ public class myclass1 {
 			   driver.findElement(By.name("password")).clear();
 	       
 	        //close Firefox
+			
 	       // driver.close();
 		}
 }
 
 kuhkhkhk
+
+dfddfd dfdg
